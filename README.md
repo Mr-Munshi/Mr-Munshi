@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mr-Munshi
-- 👀 I’m interested in JavaScript and Visual C++.
+- 👀 I’m interested in Web Development and C++.
 - 🌱 I’m currently Studing Software Engineering at Daffodil International University.
 - 💞️ I’m looking to collaborate on Web Development and Unreal Engine Project.
 - 📫 E-mail: asif35-2872@diu.edu.bd
